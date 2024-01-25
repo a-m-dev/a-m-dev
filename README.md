@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# The scope of what i do!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-m-dev)](https://github.com/a-m-dev/github-readme-stats)
