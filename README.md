@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![amdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-m-dev)](https://github.com/a-m-dev/github-readme-stats)
+# The scope of what i do!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-m-dev)](https://github.com/a-m-dev/github-readme-stats)
